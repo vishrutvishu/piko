@@ -97,17 +97,17 @@ params:
     portfolioTitle: Portfolio
     portfolioDescription:
     portfolio:
-    - imageUrl: /uploads/portfolio-1.webp
+    - imageUrl: /uploads/1.jpg
       alt: # image alt for better SEO
-      description: Portfolio One.
+      description: 
       websiteUrl: #
-    - imageUrl: /uploads/portfolio-2.webp
+    - imageUrl: /uploads/3.jpg
       alt: # image alt for better SEO
-      description: Portfolio Two.
+      description: 
       websiteUrl: #
-    - imageUrl: /uploads/portfolio-3.webp
+    - imageUrl: /uploads/2.jpg
       alt: # image alt for better SEO
-      description: Portfolio Three.
+      description: 
       websiteUrl: #
   # Search Options (https://fusejs.io/)
   fuseOpts:
