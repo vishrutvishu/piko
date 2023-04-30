@@ -1,7 +1,7 @@
 ---
 baseURL: https://dobhaipipes.netlify.app/
 languageCode: en-us
-title: DoBhaiPipes
+title: Do Bhai Pipes
 theme: piko
 paginate: "9"
 copyright: A template by [Heksagon](https://www.heksagon.net "Your most friendly developer")
@@ -38,13 +38,13 @@ params:
       SiteVerificationTag: # Bing Site Verification
   env: production
   author: Vishrut Vishu
-  description: DoBhaiPipes
+  description: Do Bhai Pipes
   math: false
   images:
   - "/uploads/og.webp"
   label:
-    title: _DoBhaiPipes_
-    text: DoBhaiPipes
+    title: _Do Bhai Pipes_
+    text: Do Bhai Pipes
     lightNavIcon: /uploads/sun.svg
     darkNavIcon: /uploads/zap.svg
     iconHeight: "35"
@@ -74,9 +74,9 @@ params:
     # Hero Section
     disableHeroSection: false
     heroUpperTitle: 
-    heroTitle: Piko
-    heroDescription: Lightweight theme for your every need
-    heroCTAPrimaryText: Blog
+    heroTitle: Do Bhai Pipes
+    heroDescription: Matour Road Kalayat(Kaithal)
+    heroCTAPrimaryText: Posts
     heroCTAPrimaryUrl: "/blog/"
     heroCTASecondaryText: Contact Me
     heroCTASecondaryUrl: "/contact/"
@@ -90,12 +90,12 @@ params:
     disableAboutSection: false
     aboutTitle: About
     aboutDescription: 
-    aboutImgUrl: "/uploads/self.webp"
-    aboutContent: Vishrut is a visionary industrialist and the proud owner of a thriving pipe factory. With his passion for excellence and unrivaled determination, he has taken his business to great heights and established a reputation that is second to none. As the head of his company, Vishrut is constantly striving to exceed expectations and deliver high-quality products that meet the needs and demands of his clients. He understands the importance of innovation and has invested heavily in research and development to ensure that his factory remains at the forefront of the industry.
+    aboutImgUrl: "/uploads/VishrutSir.png"
+    aboutContent: Vishrut Vishu is a visionary industrialist and the proud owner of a thriving pipe factory. With his passion for excellence and unrivaled determination, he has taken his business to great heights and established a reputation that is second to none. As the head of his company, Vishrut is constantly striving to exceed expectations and deliver high-quality products that meet the needs and demands of his clients. He understands the importance of innovation and has invested heavily in research and development to ensure that his factory remains at the forefront of the industry.
     # Portfolio Section
     disablePortfolioSection: false
     portfolioTitle: Portfolio
-    portfolioDescription: Some of my works
+    portfolioDescription:
     portfolio:
     - imageUrl: /uploads/portfolio-1.webp
       alt: # image alt for better SEO
@@ -130,8 +130,8 @@ params:
 menus:
   main: # Main Menu
   - name: Blog
-    title: Blog
-    pre: pen-tool
+    # title: Posts
+    # pre: pen-tool
     url: "/blog"
     weight: "20"
   - name: Search
@@ -146,7 +146,7 @@ menus:
     weight: "40"
   - name: Github
     title: 
-    pre: github
+    pre: 
     url: https://github.com/heksagonnet/piko
     weight: "50"
   search: # Search page's quick links
