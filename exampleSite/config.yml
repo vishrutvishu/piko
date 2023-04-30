@@ -1,7 +1,7 @@
 ---
-baseURL: https://piko-heksagon.netlify.app/
+baseURL: https://dobhaipipes.netlify.app/
 languageCode: en-us
-title: Piko
+title: DoBhaiPipes
 theme: piko
 paginate: "9"
 copyright: A template by [Heksagon](https://www.heksagon.net "Your most friendly developer")
@@ -37,14 +37,14 @@ params:
     bing:
       SiteVerificationTag: # Bing Site Verification
   env: production
-  author: Your Name
-  description: Your website description
+  author: Vishrut Vishu
+  description: DoBhaiPipes
   math: false
   images:
   - "/uploads/og.webp"
   label:
-    title: _Piko Title_
-    text: Welcome to Piko
+    title: _DoBhaiPipes_
+    text: DoBhaiPipes
     lightNavIcon: /uploads/sun.svg
     darkNavIcon: /uploads/zap.svg
     iconHeight: "35"
@@ -84,14 +84,14 @@ params:
     # Blog Section
     disableBlogSection: false
     blogTitle: Latest Posts
-    blogDescription: This is my latest blog posts
+    blogDescription: 
     seeMoreText: More Posts
     # About Section    
     disableAboutSection: false
     aboutTitle: About
-    aboutDescription: Just something about me
+    aboutDescription: 
     aboutImgUrl: "/uploads/self.webp"
-    aboutContent: Hi guys. This is where you put something about yourself.
+    aboutContent: Vishrut is a visionary industrialist and the proud owner of a thriving pipe factory. With his passion for excellence and unrivaled determination, he has taken his business to great heights and established a reputation that is second to none. As the head of his company, Vishrut is constantly striving to exceed expectations and deliver high-quality products that meet the needs and demands of his clients. He understands the importance of innovation and has invested heavily in research and development to ensure that his factory remains at the forefront of the industry.
     # Portfolio Section
     disablePortfolioSection: false
     portfolioTitle: Portfolio
