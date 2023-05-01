@@ -78,7 +78,7 @@ params:
     heroDescription: Matour Road Kalayat(Kaithal)
     heroCTAPrimaryText: Posts
     heroCTAPrimaryUrl: "/blog/"
-    heroCTASecondaryText: Contact Me
+    heroCTASecondaryText: Contact Us
     heroCTASecondaryUrl: "/contact/"
     heroBackgroundImage: "/uploads/pipes.jpg"
     # Blog Section
@@ -106,6 +106,18 @@ params:
       description: 
       websiteUrl: #
     - imageUrl: /uploads/2.jpg
+      alt: # image alt for better SEO
+      description: 
+      websiteUrl: #
+    - imageUrl: /uploads/5.jpg
+      alt: # image alt for better SEO
+      description: 
+      websiteUrl: #
+    - imageUrl: /uploads/4.jpg
+      alt: # image alt for better SEO
+      description: 
+      websiteUrl: #
+    - imageUrl: /uploads/6.jpg
       alt: # image alt for better SEO
       description: 
       websiteUrl: #
