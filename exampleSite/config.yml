@@ -82,7 +82,7 @@ params:
     heroCTASecondaryUrl: "/contact/"
     heroBackgroundImage: "/uploads/pipes.jpg"
     # Blog Section
-    disableBlogSection: false
+    disableBlogSection: true
     blogTitle: Latest Posts
     blogDescription: 
     seeMoreText: More Posts
